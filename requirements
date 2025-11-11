@@ -1,0 +1,10 @@
+# Versi ini lebih aman untuk kolaborasi
+# Tanda '==' artinya "harus persis versi ini"
+
+pandas==2.1.3
+numpy==1.26.1
+matplotlib==3.8.0
+seaborn==0.13.0
+scikit-learn==1.3.2
+kaggle==1.6.12
+notebook==7.0.6
